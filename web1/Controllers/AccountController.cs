@@ -20,6 +20,7 @@ namespace web1.Controllers
 
         public AccountController()
         {
+            //ádfghj
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
